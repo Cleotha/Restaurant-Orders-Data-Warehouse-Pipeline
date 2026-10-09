@@ -1,0 +1,14 @@
+customer_id,customer_name,email,city,signup_date
+501,Ada Okafor,ada@example.com,Lagos,2025-01-15
+502,David Mensah,DAVID@EXAMPLE.COM,Accra,2025-02-20
+503,Chioma Eze,chioma@example.com,Enugu,2025-03-12
+504,Tunde Bello,tunde@example.com,ibadan,2025-04-05
+505,Amaka Obi,,Abuja,2025-05-18
+506,Daniel James,daniel@example.com,Lagos,not-a-date
+507,Fatima Yusuf,fatima@example.com,Kano,2025-07-22
+508,Emeka Nwosu,emeka@example.com,Port Harcourt,2025-08-14
+508,Emeka Nwosu,emeka@example.com,Port Harcourt,2025-08-14
+509,  Grace Adeyemi  ,grace@example.com,Lagos,2025-09-01
+510,Ibrahim Musa,ibrahim@example,Kaduna,2025-09-03
+511,John Doe,john@example.com,,2025-09-10
+512,,mary@example.com,Abuja,11-09-2025

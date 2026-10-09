@@ -1,0 +1,38 @@
+[
+  {
+    "restaurant_id": 201,
+    "restaurant_name": "The Green Bowl",
+    "city": "Lagos",
+    "category": "Healthy"
+  },
+  {
+    "restaurant_id": 202,
+    "restaurant_name": "Spice Route",
+    "city": "Abuja",
+    "category": "African"
+  },
+  {
+    "restaurant_id": 203,
+    "restaurant_name": "Burger House",
+    "city": "Ibadan",
+    "category": "Fast Food"
+  },
+  {
+    "restaurant_id": 204,
+    "restaurant_name": "Mama's Kitchen",
+    "city": "Enugu",
+    "category": "Nigerian"
+  },
+    {
+    "restaurant_id": 203,
+    "restaurant_name": "Burger House",
+    "city": "Ibadan",
+    "category": "Fast Food"
+  },
+  {
+    "restaurant_id": 205,
+    "restaurant_name": "Ocean Catch",
+    "city": "Port Harcourt",
+    "category": "Seafood"
+  }
+]
