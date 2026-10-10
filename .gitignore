@@ -1,0 +1,24 @@
+# Environment variables and secrets
+.env
+.env.*
+errors/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+**pycache**/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# Logs
+*.log
+]
+# Operating system files
+.DS_Store
+
+# Git
+.git/
